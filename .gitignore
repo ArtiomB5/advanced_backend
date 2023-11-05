@@ -37,3 +37,4 @@ lerna-debug.log*
 
 # Prisma ORM
 /prisma/migrations
+/pgdata
